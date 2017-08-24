@@ -1,0 +1,43 @@
+body {
+    background: url(../images/bg.jpg) no-repeat center center fixed;
+}
+#rings {
+    position: absolute;
+    width: 106px;
+    height: 87px;
+    top: 25px;
+    right: 50px;
+}
+/*
+#our-date {
+    text-align: center;
+    background-color: #800000;
+}
+#our-date h1 {
+    font-size: 42px;
+    line-height: 100px;
+    margin: 0px;
+}
+*/
+#barn {
+    margin-top: 250px;
+}
+#barn .barn-info {
+    background-color: #4C657F;
+    padding: 50px 80px;
+    vertical-align: middle;
+}
+#barn .barn-info h2 {
+    text-align: center;
+    font-size: 30px;
+}
+#barn .barn-info-inner {
+    background-color: rgba(0,0,0,0.5);
+    border: solid 3px #FFF;
+    border-radius: 10px;
+    margin: 0px;
+    padding: 25px;
+}
+#map {
+    margin-top: 250px;
+}
